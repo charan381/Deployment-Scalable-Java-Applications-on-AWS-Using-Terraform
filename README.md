@@ -3,12 +3,6 @@
 
 ![java-aws](https://user-images.githubusercontent.com/106984297/219648306-42c0d544-f6e6-423d-9802-9f3d5eca43e8.png)
 
-## Project Documentation & Walkthrough
-
-Refer the following document for the step by step project walkthrough.
-
-**Project Documentation:** [Deploy Scalable Java Applications on AWS Using Terraform](https://devopscube.com/deploy-java-applications-aws-autoscaling/)
-
 ## Java Application
 
 For this project you can use the open source pet clinic application (Java Spring Boot)
@@ -45,6 +39,3 @@ https://github.com/spring-projects/spring-petclinic
 - Verify application by accessing it using Load Balancer endpoint.
 - Verify application logs in Cloudwatch
 
-## Other Useful Resources
-
-1. [RDS password Rotation With Terraform](https://advancedweb.hu/how-to-set-up-amazon-rds-password-rotation-with-terraform/)
